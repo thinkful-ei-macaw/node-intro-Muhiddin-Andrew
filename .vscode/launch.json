@@ -12,7 +12,7 @@
         "<node_internals>/**"
       ],
       "program": "${workspaceFolder}\\buggy-script.js",
-      "args": ["./source.txt", "targetFolder"]
+      "args": ["./source.txt", "first-node-project"]
     }
   ]
 }
